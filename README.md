@@ -1,10 +1,10 @@
 # Web Development Project 2 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tien Nhat Nguyen**
 
-This web app: **insert description**
+This web app: **A React flash card quiz app that helps users learn country flags through interactive card flipping. Users can test their geography knowledge by identifying flags from 8 major countries, with a simple click-to-reveal answer system and random card selection.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
